@@ -38,26 +38,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 🔗 [# https://www.linkedin.com/in/praveen-r-2b1120221/
-- 👋 Hi, I'm Praveen.R
-
-🎓 I'm a Data Science graduate with a Master's in Data Science and a BCA.  
-🔍 I'm passionate about turning data into actionable insights and building predictive models.  
-💼 I've completed multiple internships focused on real-world data science and analytics applications.
-
----
-
-## 🧑‍💻 About Me
-
-- 📚 M.Sc. in Data Science  
-- 🎓 BCA (Bachelor of Computer Applications)  
-- 🧠 Strong foundation in machine learning, data analysis, and statistics  
-- 🛠️ Python | SQL | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Power BI
-
----
-
 ## 💼 Internships
 
 - **Data Science Intern** – Boston IT Solutions Pvt Ltd (7 months)  
@@ -85,7 +65,6 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 📧 rathinampraveen2002@gmail.com  
-
 
 ---
 
