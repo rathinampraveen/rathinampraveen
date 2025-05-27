@@ -84,8 +84,8 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 your.email@example.com  
-- 🌐 [Portfolio (if you have one)](https://yourportfolio.com)
+- 📧 rathinampraveen2002@gmail.com  
+
 
 ---
 
